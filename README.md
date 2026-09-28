@@ -1,4 +1,4 @@
 # fmesasc.github.io
 
-Página raíz del dominio: redirige a [Revela](https://fmesasc.github.io/revela/)
+Página raíz del dominio: redirige a [fmesasc.com](https://fmesasc.com/)
 y lleva la verificación de Google Search Console del dominio.
